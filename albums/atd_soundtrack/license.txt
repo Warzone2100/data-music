@@ -1,5 +1,5 @@
-`Warzone 2100 - ATD Soundtrack` - Copyright (C) 2019-2020 AlexTheDacian 
-(email: al3xcncz@yahoo.ro url: alexthedacian.c1.biz )
+`Warzone 2100 - ATD Soundtrack` - Copyright (C) 2019-2021 AlexTheDacian 
+(email: al3xcncnz@yahoo.ro url: alexthedacian.c1.biz )
 
 'Warzone 2100 - ATD Soundtrack' is licensed and available under: 
 CC-BY-SA-3.0 (or, at your discretion, any later version)
@@ -7,8 +7,10 @@ CC-BY-SA-3.0 (or, at your discretion, any later version)
 Alternatively, 'Warzone 2100 - ATD Soundtrack' may be used & distributed under the terms of 
 the GNU General Public License Version 2 or later (the "GPL").
 
+[EN]
+Attribution-ShareAlike 3.0
 ---------------------------------------------------------------------------------------------
-Under CC-BY-SA-3.0 (or, at your discretion, any later version) you are hereby free to:
+Under CC BY-SA 3.0 (or, at your discretion, any later version) you are hereby free to:
 
 Share — copy and redistribute the material in any medium or format
 
@@ -22,4 +24,23 @@ if changes were made. You may do so in any reasonable manner, but not in any way
 
 ShareAlike — If you remix, transform, or build upon the material, you must distribute your 
 contributions under the same license as the original.
+---------------------------------------------------------------------------------------------
+
+[RO]
+Atribuire-Partajare în Condiții Identice 3.0
+---------------------------------------------------------------------------------------------
+Sub CC BY-SA 3.0 RO (ori, la discreția ta, orice versiune posterioară) ești liber să:
+
+Distribui — copiază și redistribuie această operă în orice mediu sau format
+
+Adaptezi — remixezi, transformi, și construiești pe baza operei cu orice scop, chiar și comercial
+---------------------------------------------------------------------------------------------
+Dar sub următorii termeni:
+
+Atribuire — Trebuie să acorzi creditul potrivit, să faci un link spre licență și să indici dacă
+s-au făcut modificări. Poți face aceste lucruri în orice manieră rezonabilă, dar nu în vreun mod
+care să sugereze că licențiatorul te sprijină pe tine sau modul tău de folosire a operei.
+
+Partajare în Condiții Identice — Daca remixezi, transformi, sau construiești pe baza operei, 
+trebuie să distribui contribuțiile tale sub aceeași licență precum originalul.
 ---------------------------------------------------------------------------------------------

@@ -1,14 +1,14 @@
 {
-    "title": "ATD Soundtrack",
-    "author": "AlexTheDacian",
+    "title": "Music Addon",
+    "author": "LupusMechanicus",
     "date": "2020",
-    "description": "From the Community, To the Community! Created and released by AlexTheDacian.",
+    "description": "From the Community, To the Community! Created and released by LupusMechanicus.",
     "album_cover_filename": "albumcover.png",
     "tracks": [
       {
         "filename": "track4.ogg",
         "title": "Uncertain Future",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 80
@@ -16,7 +16,7 @@
       {
         "filename": "track5.ogg",
         "title": "Recovery Ops",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 80
@@ -24,7 +24,7 @@
       {
         "filename": "track6.ogg",
         "title": "Incoming Transmission",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 80
@@ -32,7 +32,7 @@
       {
         "filename": "track7.ogg",
         "title": "My Kind of Wasteland",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 80
@@ -40,7 +40,7 @@
       {
         "filename": "track8.ogg",
         "title": "Advanced Manufacturing",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 80
@@ -48,7 +48,7 @@
       {
         "filename": "track9.ogg",
         "title": "The Project",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 80
@@ -56,7 +56,7 @@
       {
         "filename": "track10.ogg",
         "title": "The Collective",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 80
@@ -64,7 +64,7 @@
       {
         "filename": "track11.ogg",
         "title": "Awakened",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 100
@@ -72,7 +72,7 @@
       {
         "filename": "track12.ogg",
         "title": "New Dawn",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 115
@@ -80,7 +80,7 @@
       {
         "filename": "track13.ogg",
         "title": "Broken Dreams",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 130
@@ -88,7 +88,7 @@
       {
         "filename": "track14.ogg",
         "title": "Artifact Beacon",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 130
@@ -96,7 +96,7 @@
       {
         "filename": "track15.ogg",
         "title": "Unexpected Outcome",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 80
@@ -104,7 +104,7 @@
       {
         "filename": "track16.ogg",
         "title": "Geiger Ghosts",
-        "author": "AlexTheDacian",
+        "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
         "base_volume": 100,
         "bpm": 125

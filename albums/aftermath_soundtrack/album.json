@@ -6,7 +6,7 @@
     "album_cover_filename": "albumcover.png",
     "tracks": [
       {
-        "filename": "menu_enhanced.ogg",
+        "filename": "menu_enhanced.opus",
         "title": "Menu Theme - Enhanced",
         "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
@@ -14,7 +14,7 @@
         "bpm": 80
       },
       {
-        "filename": "track17.ogg",
+        "filename": "track17.opus",
         "title": "Nuclear Heartbeat",
         "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
@@ -22,7 +22,7 @@
         "bpm": 80
       },
       {
-        "filename": "track18.ogg",
+        "filename": "track18.opus",
         "title": "Moonlight Tactics",
         "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
@@ -30,7 +30,7 @@
         "bpm": 80
       },
       {
-        "filename": "track19.ogg",
+        "filename": "track19.opus",
         "title": "Undisclosed Location",
         "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
@@ -38,7 +38,7 @@
         "bpm": 80
       },
       {
-        "filename": "track20.ogg",
+        "filename": "track20.opus",
         "title": "Shifting Realities",
         "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
@@ -46,7 +46,7 @@
         "bpm": 80
       },
       {
-        "filename": "track21.ogg",
+        "filename": "track21.opus",
         "title": "The Collapse",
         "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
@@ -54,7 +54,7 @@
         "bpm": 80
       },
       {
-        "filename": "track22.ogg",
+        "filename": "track22.opus",
         "title": "Aftershocks",
         "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
@@ -62,7 +62,7 @@
         "bpm": 80
       },
       {
-        "filename": "track23.ogg",
+        "filename": "track23.opus",
         "title": "Blast Zone",
         "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
@@ -70,7 +70,7 @@
         "bpm": 100
       },
       {
-        "filename": "track24.ogg",
+        "filename": "track24.opus",
         "title": "Reclamation",
         "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
@@ -78,7 +78,7 @@
         "bpm": 115
       },
       {
-        "filename": "track25.ogg",
+        "filename": "track25.opus",
         "title": "Rainout",
         "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
@@ -86,7 +86,7 @@
         "bpm": 130
       },
       {
-        "filename": "track26.ogg",
+        "filename": "track26.opus",
         "title": "Just Rewards",
         "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],
@@ -94,7 +94,7 @@
         "bpm": 130
       },
       {
-        "filename": "track27.ogg",
+        "filename": "track27.opus",
         "title": "Launch Codes",
         "author": "LupusMechanicus",
         "default_music_modes": ["challenge", "skirmish", "multiplayer"],

@@ -6,7 +6,7 @@
     "album_cover_filename": "albumcover.png",
     "tracks": [
       {
-        "filename": "track1.ogg",
+        "filename": "track1.opus",
         "title": "Track 1",
         "author": "Martin Severn",
         "default_music_modes": ["campaign", "challenge", "skirmish", "multiplayer"],
@@ -14,7 +14,7 @@
         "bpm": 80
       },
       {
-        "filename": "track2.ogg",
+        "filename": "track2.opus",
         "title": "Track 2",
         "author": "Martin Severn",
         "default_music_modes": ["campaign", "challenge", "skirmish", "multiplayer"],
@@ -22,7 +22,7 @@
         "bpm": 80
       },
       {
-        "filename": "track3.ogg",
+        "filename": "track3.opus",
         "title": "Track 3",
         "author": "Martin Severn",
         "default_music_modes": ["campaign", "challenge", "skirmish", "multiplayer"],
